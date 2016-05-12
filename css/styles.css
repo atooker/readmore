@@ -2,12 +2,12 @@
 YOUR STYLES
 *******************/
 article {
-
   max-height: 6em; /* (4 * 1.5 = 6) */
 }
 p{
-     
+     width:800px;
 }
+
 
 /********************
 MEDIA QUERIES
